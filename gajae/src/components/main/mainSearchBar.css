@@ -4,8 +4,12 @@
   display: flex;
   justify-content: center;
   position: relative;
-  width: 1800;
+  width: 1500px;
+  background-image: url("/public/images/무제.mp4");
+  background-size: cover;
+  background-position: center;
 }
+
 
 .date {
   top: 50px;
